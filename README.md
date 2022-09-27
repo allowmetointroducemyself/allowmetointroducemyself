@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allowmetointroducemyself
 - 👀 I’m interested in Crypto, Books, and Films
-- 🌱 I’m currently learning finance 
-- 💞️ I’m looking to collaborate on some of my Projects. Right now I am working on a treasury for Crypto assets, that would allow managing funds in an easy way
+- 🌱 I’m currently learning finance informatic 
+- 💞️ I am just starting out, so give me some critics
 - 📫 How to reach me @bogs1 on telegramm
 
 <!---
